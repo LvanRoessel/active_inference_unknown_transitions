@@ -12,9 +12,9 @@ To run the simulations:
 
 Most important modifications are:
 
-SPM_MDP_VB_X_unknown_transitions, line 664-674: Implementation of the transition novelty term
+SPM_MDP_VB_X_unknown_transitions, line 653-667: Implementation of the transition novelty term
 
-SPM_MDP_VB_X_unknown_transitions, line 803-822: Implementation of the alternative learning mechanism
+SPM_MDP_VB_X_unknown_transitions, line 806-813: Implementation of the alternative learning mechanism
 
 DEMO_MDP_MDP_maze_unknown_transitions, line 197-210: Implementation of the transition uncertainty
 
