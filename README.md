@@ -12,10 +12,10 @@ To run the simulations:
 
 Most important modifications are:
 
-SPM_MDP_VB_X_unknown_transitions, line 653-667: Implementation of the transition novelty term
+SPM_MDP_VB_X_unknown_transitions, line 653-667: Implementation of the transition novelty term                                 --> Thesis section 3-2
 
-SPM_MDP_VB_X_unknown_transitions, line 806-813: Implementation of the alternative learning mechanism
+SPM_MDP_VB_X_unknown_transitions, line 806-813: Implementation of the alternative learning mechanism                          --> Thesis section 5-3
 
-DEMO_MDP_MDP_maze_unknown_transitions, line 197-210: Implementation of the transition uncertainty
+DEMO_MDP_MDP_maze_unknown_transitions, line 175-188: Implementation of the transition uncertainty                             --> Thesis section 4-3
 
-DEMO_MDP_MDP_maze_unknown_transitions, line 391-396: Implementation of the incorrect concentration parameter removal mechanism
+DEMO_MDP_MDP_maze_unknown_transitions, line 368-373: Implementation of the incorrect concentration parameter removal mechanism--> Thesis page 52
